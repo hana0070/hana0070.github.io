@@ -1,15 +1,14 @@
 # Site settings
+author: Hana Leander
 title: CODE LEARNER
 header-img: img/home-bg.png
 email: hana0070@gmail.com
-copyright_name: hana0070
+copyright_name: Hana Leander
 description: > # this means to ignore newlines until "baseurl:"
   Want to learn code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hana0070
-learn_profile: hana0070
-email_username: hana0070@gmail.com
 
 # Build settings
 markdown: kramdown
